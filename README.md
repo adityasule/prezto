@@ -1,3 +1,5 @@
+My fork of sorin-ionescu/prezto to manage my configuration.
+
 # Prezto — Instantly Awesome Zsh
 
 Prezto is the configuration framework for [Zsh][1]; it enriches the command line
